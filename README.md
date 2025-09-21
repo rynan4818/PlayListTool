@@ -49,7 +49,8 @@ PlayListTool.exe に内包している具体的なライブラリファイルの
 
 ## GUIフォームビルダー入手先
 - FormDesigner for Project VisualuRuby Ver 040323
-- https://ja.osdn.net/projects/fdvr/
+- https://ja.osdn.net/projects/fdvr/  (オリジナル)
+- https://github.com/rynan4818/formdesigner   (改造版＆exe化配布)
 - 開発者:雪見酒
 - ライセンス：Ruby Licence
 
